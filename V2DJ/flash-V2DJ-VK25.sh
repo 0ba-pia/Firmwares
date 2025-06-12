@@ -1,5 +1,5 @@
 echo "**** Flashing device /dev/cu.usbmodem$1."
-rp2040=4.0.3
+rp2040=4.5.4
 FW=~/Documents/GitHub/Firmwares/V2DJ/V2DVK25-RP2040.ino.generic.uf2
 echo "**** Firmware : $FW"
 python3 \
